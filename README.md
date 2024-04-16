@@ -1,2 +1,2 @@
 # DreamHomeMySQL
-A mini project based on MySQL queries using tinker interface.
+A mini project based on MySQL queries using Tkinter interface.
